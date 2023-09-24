@@ -6,7 +6,7 @@ export default function Footer() {
     <small className="mb-2 block text-xs">
       Copyright © 2023 Alperen Bekci
     </small>
-    <a href="https://github.com/alperenbekci/alperenbekci">
+    <a href="https://github.com/alperenbekci/alperenbekciPortfolio">
       <span className="bg-gradient-to-r from-teal-400 to-lime-400 text-xl m-2 text-transparent bg-clip-text font-extrabold">
         Open Source
       </span>
