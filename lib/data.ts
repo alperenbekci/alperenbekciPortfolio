@@ -67,6 +67,7 @@ export const projectsData = [
       "I created an airdrop app enabling token withdrawals to Solana's testnet and devnet.",
     tags: ["React", "Next.js",  "Chackra UI ", "Tailwind", "TypeScript", "Solana" ],
     imageUrl: mrairdropapp,
+    href: "https://mr-airdrop.vercel.app/"
   },
   {
     title: "SolGrant",
@@ -74,6 +75,7 @@ export const projectsData = [
       "With my team we build a decentralized crowdfunding app enabling users to secure project investments via a voting mechanism.",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Solana","Figma"],
     imageUrl: solgrantapp,
+    href: "https://www.linkedin.com/posts/alperen-bekci_solgrant-activity-7096554482322292736-hptQ/?utm_source=share&utm_medium=member_desktop"
   },
   {
     title: "RanVal",
@@ -81,6 +83,7 @@ export const projectsData = [
       "With my team We create a decentralized AI application allowing users to generate web3 project concepts and NFT-license them.",
     tags: ["Express.js", "Solana", "Figma", "Opeanai"],
     imageUrl: ranval,
+    href: "https://github.com/RanvalSOL/RanValAPP"
   },
 ] as const;
 
