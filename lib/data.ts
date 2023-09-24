@@ -75,7 +75,7 @@ export const projectsData = [
       "With my team we build a decentralized crowdfunding app enabling users to secure project investments via a voting mechanism.",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Solana","Figma"],
     imageUrl: solgrantapp,
-    href: "https://www.linkedin.com/posts/alperen-bekci_solgrant-activity-7096554482322292736-hptQ/?utm_source=share&utm_medium=member_desktop"
+    href: "https://github.com/alperenbekci/SolGrant"
   },
   {
     title: "RanVal",
