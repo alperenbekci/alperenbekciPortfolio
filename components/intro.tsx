@@ -64,9 +64,9 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello, I'm Alperen.</span> I'm a
-        <span className=" bg-gradient-to-r from-teal-400 to-lime-400 text-transparent bg-clip-text font-extrabold"> Full-Stack Developer</span>, building
+        <span className=" bg-gradient-to-r from-teal-400 to-lime-400 dark:bg-gradient-to-r from-teal-400 to-lime-400 text-transparent bg-clip-text font-extrabold"> Full-Stack Developer</span>, building
          <span className="italic"> Web2 - Web3 apps</span>. My primary tool is
-        <span className=" bg-gradient-to-r from-lime-400 to-teal-400 text-transparent bg-clip-text font-extrabold "> React (Next.js).</span> 
+        <span className=" bg-gradient-to-r from-lime-400 to-teal-400 dark:bg-gradient-to-r from-lime-400 to-teal-400 text-transparent bg-clip-text font-extrabold "> React (Next.js).</span> 
       </motion.h1>
 
       <motion.div
