@@ -7,10 +7,10 @@ export default function Footer() {
       Copyright © 2023 Alperen Bekci
     </small>
     <a href="https://github.com/alperenbekci/alperenbekciPortfolio">
-      <span className="bg-gradient-to-r from-teal-400 to-lime-400 text-xl m-2 text-transparent bg-clip-text font-extrabold">
+      <span className="bg-gradient-to-r from-purple-500 to-rose-400 text-xl m-2 text-transparent bg-clip-text font-extrabold">
         Open Source
       </span>
-      💙💚
+      💜🧡
     </a>
     <p className="text-xs mt-2">
       <span className="font-semibold">About this website:</span> built with
